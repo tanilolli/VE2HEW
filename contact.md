@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Contact Anthony Di Iorio, Montreal, Quebec, Canada. Technology Enthusiast.
+description: Contact Anthony VE2HEW
 permalink: /contact/
 ---
 Email: [anthony@ve2hew.com](mailto:anthony@ve2hew.com?Subject=Hello)
