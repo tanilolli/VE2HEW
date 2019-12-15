@@ -5,3 +5,5 @@ description: Anthony VE2HEW - Ham Radio Blog
 
 remote_theme: jekyll/minima
 show_excerpts: true
+
+exclude: ["CNAME", "Rakefile", "README.md"]
