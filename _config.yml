@@ -3,7 +3,7 @@ author: Anthony Di Iorio
 email: anthony@ve2hew.com
 description: Anthony VE2HEW - Ham Radio Blog
 
-remote_theme: jekyll/minima
+remote_theme: tanilolli/hewin-theme
 show_excerpts: true
 
 plugins:
