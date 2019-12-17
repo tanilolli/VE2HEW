@@ -8,3 +8,4 @@ show_excerpts: true
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
