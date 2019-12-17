@@ -3,6 +3,7 @@ layout: post
 title:  "LZ1AQ Loop Controller"
 date:   2019-12-14 19:47:46 -0500
 categories: antennas
+image: https://github.com/tanilolli/LZ1AQ-Loop-Controller/raw/master/images/controller-1.jpg
 ---
 
 I wanted to build a fully remotable LZ1AQ Active Antenna controller with off the shelf components. It is very cheap to buy ESP8266 MCUs and multi-channel relay boards online. Why reinvent the wheel? This project can be easily adapted to control remote antenna switches and other devices that can be controlled with relays.
