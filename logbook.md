@@ -17,4 +17,3 @@ ohrdlog.SetColors('&colors=%23FFFFFF','%23FFFFFF','%23F6F4EB');
 ohrdlog.LoadLastQso(20);
 ohrdlog.DisableLinks();
 </script>
-<!-- HRDLOG.net script stop -->
