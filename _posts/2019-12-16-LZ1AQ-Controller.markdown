@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LZ1AQ Loop Controller"
-date:   2019-12-16 19:47:46 -0500
+date:   2019-12-16
 categories: antennas
 image: https://github.com/tanilolli/LZ1AQ-Loop-Controller/raw/master/images/controller-1.jpg
 ---

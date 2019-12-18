@@ -11,7 +11,7 @@ This is my first skin for PowerSDR, PowerSDR, OpenHPSDR, Thetis, NaP3, etc. It's
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/tanilolli/PowerSDR-Skins" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Download tanilolli/LZ1AQ-Loop-Controller on GitHub">Download on GitHub</a>
 
-![](img/2019/12/VE2HEW-Flat-Blue.png)
+![](/img/2019/12/VE2HEW-Flat-Blue.png)
 
 ## Instructions
 
