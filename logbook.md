@@ -5,7 +5,6 @@ description: VE2HEW Logbook
 permalink: /log/
 ---
 
-<!-- HRDLOG.net script start -->
 <div id="hrdlog-oa"> </div>
 <div id="hrdlog">www.hrdlog.net</div>
 <script type="text/javascript" language="javascript" src="http://www.hrdlog.net/hrdlog.js"></script>
