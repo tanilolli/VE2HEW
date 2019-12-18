@@ -6,7 +6,7 @@ categories: sdr thetis
 image: img/2019/12/VE2HEW-Flat-Blue-thumb.png
 ---
 
-This is my first skin for PowerSDR, PowerSDR, OpenHPSDR, Thetis, NaP3, etc. It's clean and simple. All the project files are in the repo for you to edit in Photoshop. I'll probably make some more as time allows.
+This is my first skin for PowerSDR, OpenHPSDR, Thetis, NaP3, etc. It's clean and simple. All the project files are in the repo for you to edit in Photoshop. I'll probably make some more as time allows.
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/tanilolli/PowerSDR-Skins" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Download tanilolli/LZ1AQ-Loop-Controller on GitHub">Download on GitHub</a>
