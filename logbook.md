@@ -4,7 +4,7 @@ title: Logbook
 description: VE2HEW Logbook
 permalink: /log/
 ---
-
+<div style="overflow-x:auto;" markdown="block">
 <div id="hrdlog-oa"> </div>
 <div id="hrdlog">www.hrdlog.net</div>
 <script type="text/javascript" language="javascript" src="http://www.hrdlog.net/hrdlog.js"></script>
@@ -16,3 +16,4 @@ ohrdlog.SetColors('&colors=%23FFFFFF','%23FFFFFF','%23F6F4EB');
 ohrdlog.LoadLastQso(20);
 ohrdlog.DisableLinks();
 </script>
+</div>

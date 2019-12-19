@@ -16,6 +16,7 @@ This is my first skin for PowerSDR, OpenHPSDR, Thetis, NaP3, etc. It's clean and
 ### Setup -> Appearance 
 
 #### General 
+<div style="overflow-x:auto;" markdown="block">
 
 | VFO | RGB | Band Data |  RGB |
 |---|---|---|---|
@@ -25,7 +26,11 @@ This is my first skin for PowerSDR, OpenHPSDR, Thetis, NaP3, etc. It's clean and
 | Small Color | 255 255 255 | Background | 0 0 0 |
 | Info Color | 255 140 0 |
 
+</div>
+
 #### RX Display 
+
+<div style="overflow-x:auto;" markdown="block">
 
 | Panadapter | RGB | Grid | RGB | Cursor/Peak Readout | RGB |
 |---|---|---|---|---|---|
@@ -36,6 +41,7 @@ MultiRX Filter | 64 159 255 | H-Grid | 255 255 255 |
 MultiRX Zero Line | 135 206 250 | Zero Line | 255 255 255 |
 GrayLine | 0 0 0 | Text | 255 255 255 |
 
+</div>
 
 ## Instructions
 
