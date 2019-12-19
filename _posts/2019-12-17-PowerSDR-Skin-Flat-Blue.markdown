@@ -34,12 +34,12 @@ This is my first skin for PowerSDR, OpenHPSDR, Thetis, NaP3, etc. It's clean and
 
 | Panadapter | RGB | Grid | RGB | Cursor/Peak Readout | RGB |
 |---|---|---|---|---|---|
-Main RX Filter | 255 255 255 | Background | 0 0 0 | Peak Text | 30 144 255 |
-TX Filter | 64 159 255 | V-Grid | 255 255 255 | Background | 0 0 0 |
-Band Edge | 255 0 0 | V-Grid Fine | 255 255 255 |
-MultiRX Filter | 64 159 255 | H-Grid | 255 255 255 |
-MultiRX Zero Line | 135 206 250 | Zero Line | 255 255 255 |
-GrayLine | 0 0 0 | Text | 255 255 255 |
+| Main RX Filter | 255 255 255 | Background | 0 0 0 | Peak Text | 30 144 255 |
+| TX Filter | 64 159 255 | V-Grid | 255 255 255 | Background | 0 0 0 |
+| Band Edge | 255 0 0 | V-Grid Fine | 255 255 255 |
+| MultiRX Filter | 64 159 255 | H-Grid | 255 255 255 |
+| MultiRX Zero Line | 135 206 250 | Zero Line | 255 255 255 |
+| GrayLine | 0 0 0 | Text | 255 255 255 |
 
 </div>
 
