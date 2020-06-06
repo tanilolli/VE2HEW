@@ -3,25 +3,25 @@ layout: post
 title:  "LZ1AQ Loop Controller"
 date:   2019-12-16
 categories: antennas
-image: https://github.com/tanilolli/LZ1AQ-Loop-Controller/raw/master/images/controller-1.jpg
+image: https://github.com/anthonydiiorio/LZ1AQ-Loop-Controller/raw/master/images/controller-1.jpg
 ---
 
 I wanted to build a fully remotable LZ1AQ Active Antenna controller with off the shelf components. It is very cheap to buy ESP8266 MCUs and multi-channel relay boards online. Why reinvent the wheel? This project can be easily adapted to control remote antenna switches and other devices that can be controlled with relays.
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/tanilolli/LZ1AQ-Loop-Controller/" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Download tanilolli/LZ1AQ-Loop-Controller on GitHub">Download on GitHub</a>
+<a class="github-button" href="https://github.com/anthonydiiorio/LZ1AQ-Loop-Controller/" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Download anthonydiiorio/LZ1AQ-Loop-Controller on GitHub">Download on GitHub</a>
 
-![](https://github.com/tanilolli/LZ1AQ-Loop-Controller/raw/master/images/screenshot.png)
+![](https://github.com/anthonydiiorio/LZ1AQ-Loop-Controller/raw/master/images/screenshot.png)
 
-![](https://github.com/tanilolli/LZ1AQ-Loop-Controller/raw/master/images/controller-1.jpg)
+![](https://github.com/anthonydiiorio/LZ1AQ-Loop-Controller/raw/master/images/controller-1.jpg)
 
-![](https://github.com/tanilolli/LZ1AQ-Loop-Controller/raw/master/images/controller-2.jpg)
+![](https://github.com/anthonydiiorio/LZ1AQ-Loop-Controller/raw/master/images/controller-2.jpg)
 
-![](https://github.com/tanilolli/LZ1AQ-Loop-Controller/raw/master/images/controller-3.jpg)
+![](https://github.com/anthonydiiorio/LZ1AQ-Loop-Controller/raw/master/images/controller-3.jpg)
 
 ## Schematic
 
-![](https://github.com/tanilolli/LZ1AQ-Loop-Controller/raw/master/images/schematic.png)
+![](https://github.com/anthonydiiorio/LZ1AQ-Loop-Controller/raw/master/images/schematic.png)
 
 ## BOM
 
